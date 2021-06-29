@@ -1,0 +1,193 @@
+C:\Users\tduy2\source\repos\QuanLyThuVien\BUS\bin\Debug\BUS.dll
+C:\Users\tduy2\source\repos\QuanLyThuVien\BUS\bin\Debug\BUS.pdb
+C:\Users\tduy2\source\repos\QuanLyThuVien\BUS\bin\Debug\DAL.dll
+C:\Users\tduy2\source\repos\QuanLyThuVien\BUS\bin\Debug\DAL.pdb
+C:\Users\tduy2\source\repos\QuanLyThuVien\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\tduy2\source\repos\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\tduy2\source\repos\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\tduy2\source\repos\QuanLyThuVien\BUS\obj\Debug\BUS.dll
+C:\Users\tduy2\source\repos\QuanLyThuVien\BUS\obj\Debug\BUS.pdb
+C:\Users\Hong_Loi\Downloads\QuanLyThuVien\BUS\bin\Debug\BUS.dll
+C:\Users\Hong_Loi\Downloads\QuanLyThuVien\BUS\bin\Debug\BUS.pdb
+C:\Users\Hong_Loi\Downloads\QuanLyThuVien\BUS\bin\Debug\DAL.dll
+C:\Users\Hong_Loi\Downloads\QuanLyThuVien\BUS\bin\Debug\DAL.pdb
+C:\Users\Hong_Loi\Downloads\QuanLyThuVien\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Hong_Loi\Downloads\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Hong_Loi\Downloads\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Hong_Loi\Downloads\QuanLyThuVien\BUS\obj\Debug\BUS.dll
+C:\Users\Hong_Loi\Downloads\QuanLyThuVien\BUS\obj\Debug\BUS.pdb
+D:\QLTV(DOaN)\BUS\bin\Debug\BUS.dll
+D:\QLTV(DOaN)\BUS\bin\Debug\BUS.pdb
+D:\QLTV(DOaN)\BUS\bin\Debug\DAL.dll
+D:\QLTV(DOaN)\BUS\bin\Debug\DAL.pdb
+D:\QLTV(DOaN)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\QLTV(DOaN)\BUS\obj\Debug\BUS.dll
+D:\QLTV(DOaN)\BUS\obj\Debug\BUS.pdb
+E:\QLTV(DOaN)\BUS\bin\Debug\BUS.dll
+E:\QLTV(DOaN)\BUS\bin\Debug\BUS.pdb
+E:\QLTV(DOaN)\BUS\bin\Debug\DAL.dll
+E:\QLTV(DOaN)\BUS\bin\Debug\DAL.pdb
+E:\QLTV(DOaN)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\QLTV(DOaN)\BUS\obj\Debug\BUS.dll
+E:\QLTV(DOaN)\BUS\obj\Debug\BUS.pdb
+D:\DoAn\QLTV(DOaN)\BUS\bin\Debug\BUS.dll
+D:\DoAn\QLTV(DOaN)\BUS\bin\Debug\BUS.pdb
+D:\DoAn\QLTV(DOaN)\BUS\bin\Debug\DAL.dll
+D:\DoAn\QLTV(DOaN)\BUS\bin\Debug\DAL.pdb
+D:\DoAn\QLTV(DOaN)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\DoAn\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\DoAn\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\DoAn\QLTV(DOaN)\BUS\obj\Debug\BUS.dll
+D:\DoAn\QLTV(DOaN)\BUS\obj\Debug\BUS.pdb
+D:\QL_ThuVien(DoAn)\QLTV(DOaN)\BUS\bin\Debug\BUS.dll
+D:\QL_ThuVien(DoAn)\QLTV(DOaN)\BUS\bin\Debug\BUS.pdb
+D:\QL_ThuVien(DoAn)\QLTV(DOaN)\BUS\bin\Debug\DAL.dll
+D:\QL_ThuVien(DoAn)\QLTV(DOaN)\BUS\bin\Debug\DAL.pdb
+D:\QL_ThuVien(DoAn)\QLTV(DOaN)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\QL_ThuVien(DoAn)\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\QL_ThuVien(DoAn)\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\QL_ThuVien(DoAn)\QLTV(DOaN)\BUS\obj\Debug\BUS.dll
+D:\QL_ThuVien(DoAn)\QLTV(DOaN)\BUS\obj\Debug\BUS.pdb
+C:\Users\PC\OneDrive\Desktop\Đồ Án (Đã xong form nhân viên)\QLTV(DOaN)\BUS\bin\Debug\BUS.dll
+C:\Users\PC\OneDrive\Desktop\Đồ Án (Đã xong form nhân viên)\QLTV(DOaN)\BUS\bin\Debug\BUS.pdb
+C:\Users\PC\OneDrive\Desktop\Đồ Án (Đã xong form nhân viên)\QLTV(DOaN)\BUS\bin\Debug\DAL.dll
+C:\Users\PC\OneDrive\Desktop\Đồ Án (Đã xong form nhân viên)\QLTV(DOaN)\BUS\bin\Debug\DAL.pdb
+C:\Users\PC\OneDrive\Desktop\Đồ Án (Đã xong form nhân viên)\QLTV(DOaN)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\Đồ Án (Đã xong form nhân viên)\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\Đồ Án (Đã xong form nhân viên)\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\PC\OneDrive\Desktop\Đồ Án (Đã xong form nhân viên)\QLTV(DOaN)\BUS\obj\Debug\BUS.dll
+C:\Users\PC\OneDrive\Desktop\Đồ Án (Đã xong form nhân viên)\QLTV(DOaN)\BUS\obj\Debug\BUS.pdb
+D:\do an hoan tat\QLTV(DOaN)\BUS\bin\Debug\BUS.dll
+D:\do an hoan tat\QLTV(DOaN)\BUS\bin\Debug\BUS.pdb
+D:\do an hoan tat\QLTV(DOaN)\BUS\bin\Debug\DAL.dll
+D:\do an hoan tat\QLTV(DOaN)\BUS\bin\Debug\DAL.pdb
+D:\do an hoan tat\QLTV(DOaN)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\do an hoan tat\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\do an hoan tat\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\do an hoan tat\QLTV(DOaN)\BUS\obj\Debug\BUS.dll
+D:\do an hoan tat\QLTV(DOaN)\BUS\obj\Debug\BUS.pdb
+D:\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\bin\Debug\BUS.dll
+D:\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\bin\Debug\BUS.pdb
+D:\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\bin\Debug\DAL.dll
+D:\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\bin\Debug\DAL.pdb
+D:\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\obj\Debug\BUS.dll
+D:\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\obj\Debug\BUS.pdb
+C:\Users\PC\OneDrive\Desktop\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\bin\Debug\BUS.dll
+C:\Users\PC\OneDrive\Desktop\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\bin\Debug\BUS.pdb
+C:\Users\PC\OneDrive\Desktop\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\bin\Debug\DAL.dll
+C:\Users\PC\OneDrive\Desktop\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\bin\Debug\DAL.pdb
+C:\Users\PC\OneDrive\Desktop\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\PC\OneDrive\Desktop\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\obj\Debug\BUS.dll
+C:\Users\PC\OneDrive\Desktop\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\obj\Debug\BUS.pdb
+F:\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\bin\Debug\BUS.dll
+F:\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\bin\Debug\BUS.pdb
+F:\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\bin\Debug\DAL.dll
+F:\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\bin\Debug\DAL.pdb
+F:\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+F:\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CopyComplete
+F:\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\obj\Debug\BUS.dll
+F:\Đồ án chỉnh sửa lần 3\QLTV(DOaN)\BUS\obj\Debug\BUS.pdb
+D:\doan chinh sua lan 4\QLTV(DOaN)\BUS\bin\Debug\BUS.dll
+D:\doan chinh sua lan 4\QLTV(DOaN)\BUS\bin\Debug\BUS.pdb
+D:\doan chinh sua lan 4\QLTV(DOaN)\BUS\bin\Debug\DAL.dll
+D:\doan chinh sua lan 4\QLTV(DOaN)\BUS\bin\Debug\DAL.pdb
+D:\doan chinh sua lan 4\QLTV(DOaN)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\doan chinh sua lan 4\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\doan chinh sua lan 4\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\doan chinh sua lan 4\QLTV(DOaN)\BUS\obj\Debug\BUS.dll
+D:\doan chinh sua lan 4\QLTV(DOaN)\BUS\obj\Debug\BUS.pdb
+C:\Users\PC\OneDrive\Desktop\doan chinh sua lan 4\QLTV(DOaN)\BUS\bin\Debug\BUS.dll
+C:\Users\PC\OneDrive\Desktop\doan chinh sua lan 4\QLTV(DOaN)\BUS\bin\Debug\BUS.pdb
+C:\Users\PC\OneDrive\Desktop\doan chinh sua lan 4\QLTV(DOaN)\BUS\bin\Debug\DAL.dll
+C:\Users\PC\OneDrive\Desktop\doan chinh sua lan 4\QLTV(DOaN)\BUS\bin\Debug\DAL.pdb
+C:\Users\PC\OneDrive\Desktop\doan chinh sua lan 4\QLTV(DOaN)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\doan chinh sua lan 4\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\doan chinh sua lan 4\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\PC\OneDrive\Desktop\doan chinh sua lan 4\QLTV(DOaN)\BUS\obj\Debug\BUS.dll
+C:\Users\PC\OneDrive\Desktop\doan chinh sua lan 4\QLTV(DOaN)\BUS\obj\Debug\BUS.pdb
+D:\doan chinh sua lan 6\QLTV(DOaN)\BUS\bin\Debug\BUS.dll
+D:\doan chinh sua lan 6\QLTV(DOaN)\BUS\bin\Debug\BUS.pdb
+D:\doan chinh sua lan 6\QLTV(DOaN)\BUS\bin\Debug\DAL.dll
+D:\doan chinh sua lan 6\QLTV(DOaN)\BUS\bin\Debug\DAL.pdb
+D:\doan chinh sua lan 6\QLTV(DOaN)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\doan chinh sua lan 6\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\doan chinh sua lan 6\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\doan chinh sua lan 6\QLTV(DOaN)\BUS\obj\Debug\BUS.dll
+D:\doan chinh sua lan 6\QLTV(DOaN)\BUS\obj\Debug\BUS.pdb
+D:\doan chinh sua lan 7 (Đã xong)\QLTV(DOaN)\BUS\bin\Debug\BUS.dll
+D:\doan chinh sua lan 7 (Đã xong)\QLTV(DOaN)\BUS\bin\Debug\BUS.pdb
+D:\doan chinh sua lan 7 (Đã xong)\QLTV(DOaN)\BUS\bin\Debug\DAL.dll
+D:\doan chinh sua lan 7 (Đã xong)\QLTV(DOaN)\BUS\bin\Debug\DAL.pdb
+D:\doan chinh sua lan 7 (Đã xong)\QLTV(DOaN)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\doan chinh sua lan 7 (Đã xong)\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\doan chinh sua lan 7 (Đã xong)\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\doan chinh sua lan 7 (Đã xong)\QLTV(DOaN)\BUS\obj\Debug\BUS.dll
+D:\doan chinh sua lan 7 (Đã xong)\QLTV(DOaN)\BUS\obj\Debug\BUS.pdb
+D:\QuanLyThuVien(7)\QLTV(DOaN)\BUS\bin\Debug\BUS.dll
+D:\QuanLyThuVien(7)\QLTV(DOaN)\BUS\bin\Debug\BUS.pdb
+D:\QuanLyThuVien(7)\QLTV(DOaN)\BUS\bin\Debug\DAL.dll
+D:\QuanLyThuVien(7)\QLTV(DOaN)\BUS\bin\Debug\DAL.pdb
+D:\QuanLyThuVien(7)\QLTV(DOaN)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\QuanLyThuVien(7)\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\QuanLyThuVien(7)\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\QuanLyThuVien(7)\QLTV(DOaN)\BUS\obj\Debug\BUS.dll
+D:\QuanLyThuVien(7)\QLTV(DOaN)\BUS\obj\Debug\BUS.pdb
+C:\QuanLyThuVien(7)\QLTV(DOaN)\BUS\bin\Debug\BUS.dll
+C:\QuanLyThuVien(7)\QLTV(DOaN)\BUS\bin\Debug\BUS.pdb
+C:\QuanLyThuVien(7)\QLTV(DOaN)\BUS\bin\Debug\DAL.dll
+C:\QuanLyThuVien(7)\QLTV(DOaN)\BUS\bin\Debug\DAL.pdb
+C:\QuanLyThuVien(7)\QLTV(DOaN)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\QuanLyThuVien(7)\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\QuanLyThuVien(7)\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\QuanLyThuVien(7)\QLTV(DOaN)\BUS\obj\Debug\BUS.dll
+C:\QuanLyThuVien(7)\QLTV(DOaN)\BUS\obj\Debug\BUS.pdb
+D:\KetThucC#\QuanLyThuVien(7)\QLTV(DOaN)\BUS\bin\Debug\BUS.dll
+D:\KetThucC#\QuanLyThuVien(7)\QLTV(DOaN)\BUS\bin\Debug\BUS.pdb
+D:\KetThucC#\QuanLyThuVien(7)\QLTV(DOaN)\BUS\bin\Debug\DAL.dll
+D:\KetThucC#\QuanLyThuVien(7)\QLTV(DOaN)\BUS\bin\Debug\DAL.pdb
+D:\KetThucC#\QuanLyThuVien(7)\QLTV(DOaN)\BUS\bin\Debug\DAL.dll.config
+D:\KetThucC#\QuanLyThuVien(7)\QLTV(DOaN)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\KetThucC#\QuanLyThuVien(7)\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\KetThucC#\QuanLyThuVien(7)\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\KetThucC#\QuanLyThuVien(7)\QLTV(DOaN)\BUS\obj\Debug\BUS.dll
+D:\KetThucC#\QuanLyThuVien(7)\QLTV(DOaN)\BUS\obj\Debug\BUS.pdb
+C:\KetThucC#\QuanLyThuVien(7)\QLTV(DOaN)\BUS\bin\Debug\BUS.dll
+C:\KetThucC#\QuanLyThuVien(7)\QLTV(DOaN)\BUS\bin\Debug\BUS.pdb
+C:\KetThucC#\QuanLyThuVien(7)\QLTV(DOaN)\BUS\bin\Debug\DAL.dll
+C:\KetThucC#\QuanLyThuVien(7)\QLTV(DOaN)\BUS\bin\Debug\DAL.pdb
+C:\KetThucC#\QuanLyThuVien(7)\QLTV(DOaN)\BUS\bin\Debug\DAL.dll.config
+C:\KetThucC#\QuanLyThuVien(7)\QLTV(DOaN)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\KetThucC#\QuanLyThuVien(7)\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\KetThucC#\QuanLyThuVien(7)\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\KetThucC#\QuanLyThuVien(7)\QLTV(DOaN)\BUS\obj\Debug\BUS.dll
+C:\KetThucC#\QuanLyThuVien(7)\QLTV(DOaN)\BUS\obj\Debug\BUS.pdb
+D:\Ky_3\Lap_trinh_ung_dung\NguyenHongLoi_QuanLyThuVien_3\LibraryManagement\QLTV(DOaN)\BUS\bin\Debug\BUS.dll
+D:\Ky_3\Lap_trinh_ung_dung\NguyenHongLoi_QuanLyThuVien_3\LibraryManagement\QLTV(DOaN)\BUS\bin\Debug\BUS.pdb
+D:\Ky_3\Lap_trinh_ung_dung\NguyenHongLoi_QuanLyThuVien_3\LibraryManagement\QLTV(DOaN)\BUS\bin\Debug\DAL.dll
+D:\Ky_3\Lap_trinh_ung_dung\NguyenHongLoi_QuanLyThuVien_3\LibraryManagement\QLTV(DOaN)\BUS\bin\Debug\DAL.pdb
+D:\Ky_3\Lap_trinh_ung_dung\NguyenHongLoi_QuanLyThuVien_3\LibraryManagement\QLTV(DOaN)\BUS\bin\Debug\DAL.dll.config
+D:\Ky_3\Lap_trinh_ung_dung\NguyenHongLoi_QuanLyThuVien_3\LibraryManagement\QLTV(DOaN)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\Ky_3\Lap_trinh_ung_dung\NguyenHongLoi_QuanLyThuVien_3\LibraryManagement\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Ky_3\Lap_trinh_ung_dung\NguyenHongLoi_QuanLyThuVien_3\LibraryManagement\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Ky_3\Lap_trinh_ung_dung\NguyenHongLoi_QuanLyThuVien_3\LibraryManagement\QLTV(DOaN)\BUS\obj\Debug\BUS.dll
+D:\Ky_3\Lap_trinh_ung_dung\NguyenHongLoi_QuanLyThuVien_3\LibraryManagement\QLTV(DOaN)\BUS\obj\Debug\BUS.pdb
+D:\Ky_3\Lap_trinh_ung_dung\LibraryManagement\QLTV(DOaN)\BUS\bin\Debug\BUS.dll
+D:\Ky_3\Lap_trinh_ung_dung\LibraryManagement\QLTV(DOaN)\BUS\bin\Debug\BUS.pdb
+D:\Ky_3\Lap_trinh_ung_dung\LibraryManagement\QLTV(DOaN)\BUS\bin\Debug\DAL.dll
+D:\Ky_3\Lap_trinh_ung_dung\LibraryManagement\QLTV(DOaN)\BUS\bin\Debug\DAL.pdb
+D:\Ky_3\Lap_trinh_ung_dung\LibraryManagement\QLTV(DOaN)\BUS\bin\Debug\DAL.dll.config
+D:\Ky_3\Lap_trinh_ung_dung\LibraryManagement\QLTV(DOaN)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\Ky_3\Lap_trinh_ung_dung\LibraryManagement\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Ky_3\Lap_trinh_ung_dung\LibraryManagement\QLTV(DOaN)\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Ky_3\Lap_trinh_ung_dung\LibraryManagement\QLTV(DOaN)\BUS\obj\Debug\BUS.dll
+D:\Ky_3\Lap_trinh_ung_dung\LibraryManagement\QLTV(DOaN)\BUS\obj\Debug\BUS.pdb
